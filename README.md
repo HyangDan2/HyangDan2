@@ -8,6 +8,8 @@ I'm JH. SHIM, a hobby developer exploring ideas across software, electronics, an
 |:--:|:--:|
 | ![Face Landmark Tracker](https://raw.githubusercontent.com/HyangDan2/TechnicalHub/main/assets/profiles/face-landmark-tracker-dms-warning.jpg) | ![General Purpose Video/Image Mixer](https://raw.githubusercontent.com/HyangDan2/TechnicalHub/main/assets/profiles/general-purpose-video-image-mixer-demo.png) |
 
+> *All repositories, including the projects featured here, comply with the security policies of the company I’m affiliated with. All materials are created in my personal environment and contain no confidential company information. If you have any concerns, please contact me below.*
+
 ## Web-HQ
 
 🌐 [hyangdan2.github.io](https://hyangdan2.github.io/)
@@ -31,8 +33,6 @@ I'm JH. SHIM, a hobby developer exploring ideas across software, electronics, an
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-> *I follow the security policies of the company I’m affiliated with. All content here is created in my personal environment and contains no confidential company information. If you have any concerns, please contact me below.*
 
 ## Contact
 
