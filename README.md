@@ -2,7 +2,7 @@
 
 Thank you for visiting my GitHub profile!
 
-I’m a Display Optics Engineer working to implement AX in manufacturing, while exploring ideas across software, electronics, and product design.
+I’m a Display Optics Engineer and also work on AX initiatives in the manufacturing sector. (Domain knowledge isn’t covered here.) I continue to explore ideas across software, electronics, and product design.
 
 I aim to explore practical applications of AI through a diverse range of projects, from educational resources to games.
 
