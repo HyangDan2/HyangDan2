@@ -1,6 +1,12 @@
 # Hello, World! 👋
 
-I'm JH. SHIM, a hobby developer exploring ideas across software, electronics, and product design.
+Thank you for visiting my GitHub profile!
+
+I’m a Display Optics Engineer working to implement AX in manufacturing, while exploring ideas across software, electronics, and product design.
+
+I aim to explore practical applications of AI through a diverse range of projects, from educational resources to games.
+
+All repositories are created with AI assistance, either fully or in part. For questions or inquiries, please use the contact information below. Thank you!
 
 ## Featured Projects
 
