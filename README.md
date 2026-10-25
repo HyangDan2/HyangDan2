@@ -4,14 +4,14 @@ I'm JH. SHIM, a hobby developer exploring ideas across software, electronics, an
 
 ## Featured Project
 
-### Face Landmark Tracker
+### General Purpose Video/Image Mixer
 
-A desktop application that tracks facial landmarks from live or mock video, estimates head pose, and demonstrates drowsiness warnings.
+A desktop application that combines two video or still-image sources in real time, with multiple mixing patterns and adjustable checker-board tiles.
 
 | Architecture | Demo |
 |:--:|:--:|
-| ![Face Landmark Tracker architecture diagram](https://raw.githubusercontent.com/HyangDan2/TechnicalHub/main/assets/profiles/face-landmark-tracker-architecture.svg) | ![Face Landmark Tracker drowsiness warning demo](https://raw.githubusercontent.com/HyangDan2/TechnicalHub/main/assets/profiles/face-landmark-tracker-dms-warning.jpg) |
-| Runtime architecture | Drowsiness warning demo |
+| ![General Purpose Video/Image Mixer architecture diagram](https://raw.githubusercontent.com/HyangDan2/TechnicalHub/main/assets/profiles/general-purpose-video-image-mixer-architecture.svg) | ![General Purpose Video/Image Mixer demo](https://raw.githubusercontent.com/HyangDan2/TechnicalHub/main/assets/profiles/general-purpose-video-image-mixer-demo.png) |
+| Runtime architecture | Zig-zag mixing demo |
 
 ## Web-HQ
 
@@ -25,10 +25,11 @@ A desktop application that tracks facial landmarks from live or mock video, esti
 
 ## Technical Stack
 
-- **Languages:** Python 3.12 · TypeScript · JavaScript
+- **Languages:** Python · TypeScript · JavaScript
 - **AI & Computer Vision:** LLM applications · MediaPipe · OpenCV · Real-ESRGAN
 - **Application Development:** PySide6 / Qt · Desktop GUI · Web applications
-- **Focus Areas:** Video processing · Image upscaling · Product design
+- **Data & Processing:** NumPy · Video processing · Image upscaling
+- **Focus Areas:** Product design · Real-time media tools
 
 ## Contact
 
