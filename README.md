@@ -34,6 +34,20 @@ I'm JH. SHIM, a hobby developer exploring ideas across software, electronics, an
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+## Domain Knowledge
+
+![Optical & Display Engineering · 14 Years](https://img.shields.io/badge/Optical%20%26%20Display%20Engineering-14%20Years-0A66C2?style=for-the-badge)
+
+Display system development · Optical performance analysis · Design verification
+
+![Computer Vision & Camera Imaging · 2 Years](https://img.shields.io/badge/Computer%20Vision%20%26%20Camera%20Imaging-2%20Years-6C5CE7?style=for-the-badge)
+
+Computer vision · Image processing · Camera and ISP image quality
+
+![Manufacturing AX & Automation](https://img.shields.io/badge/Manufacturing%20AX%20%26%20Automation-Technical%20Leadership-00897B?style=for-the-badge)
+
+Manufacturing workflow digitization · Equipment control · Automation technical support
+
 ## Contact
 
 Email: jhshim1988@gmail.com
