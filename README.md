@@ -32,6 +32,8 @@ I'm JH. SHIM, a hobby developer exploring ideas across software, electronics, an
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+> *I follow the security policies of the company I’m affiliated with. All content here is created in my personal environment and contains no confidential company information. If you have any concerns, please contact me below.*
+
 ## Contact
 
 Email: jhshim1988@gmail.com
