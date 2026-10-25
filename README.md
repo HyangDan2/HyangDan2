@@ -36,9 +36,9 @@ I'm JH. SHIM, a hobby developer exploring ideas across software, electronics, an
 
 ## Domain Knowledge
 
-![Optical & Display Engineering · 14 Years](https://img.shields.io/badge/Optical%20%26%20Display%20Engineering-14%20Years-0A66C2?style=for-the-badge)
+![Display Optics Development · 14 Years](https://img.shields.io/badge/Display%20Optics%20Development-14%20Years-0A66C2?style=for-the-badge)
 
-Display system development · Optical performance analysis · Design verification
+Display optics development · Optical performance analysis · Design verification
 
 ![Computer Vision & Camera Imaging · 2 Years](https://img.shields.io/badge/Computer%20Vision%20%26%20Camera%20Imaging-2%20Years-6C5CE7?style=for-the-badge)
 
