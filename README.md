@@ -39,8 +39,13 @@ All repositories are created with AI assistance, either fully or in part. For qu
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Desktop & Game Development**  
+**Backend**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Desktop Applications**  
 ![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+
+**Game Development**  
 ![Phaser](https://img.shields.io/badge/Phaser-8A2BE2?style=for-the-badge&logo=phaser&logoColor=white)
 
 **AI & Computer Vision**  
