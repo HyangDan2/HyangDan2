@@ -4,9 +4,9 @@ I'm JH. SHIM, a hobby developer exploring ideas across software, electronics, an
 
 ## Featured Projects
 
-| General Purpose Video/Image Mixer | Face Landmark Tracker |
+| Face Landmark Tracker | General Purpose Video/Image Mixer |
 |:--:|:--:|
-| ![General Purpose Video/Image Mixer](https://raw.githubusercontent.com/HyangDan2/TechnicalHub/main/assets/profiles/general-purpose-video-image-mixer-demo.png) | ![Face Landmark Tracker](https://raw.githubusercontent.com/HyangDan2/TechnicalHub/main/assets/profiles/face-landmark-tracker-dms-warning.jpg) |
+| ![Face Landmark Tracker](https://raw.githubusercontent.com/HyangDan2/TechnicalHub/main/assets/profiles/face-landmark-tracker-dms-warning.jpg) | ![General Purpose Video/Image Mixer](https://raw.githubusercontent.com/HyangDan2/TechnicalHub/main/assets/profiles/general-purpose-video-image-mixer-demo.png) |
 
 ## Web-HQ
 
@@ -21,16 +21,16 @@ I'm JH. SHIM, a hobby developer exploring ideas across software, electronics, an
 ## Tech Stack
 
 **Desktop & Vision**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 **Web**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Contact
 
