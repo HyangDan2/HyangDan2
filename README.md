@@ -2,11 +2,15 @@
 
 Thank you for visiting my GitHub profile!
 
-I’m a Display Optics Engineer and also work on AX initiatives in the manufacturing sector. (Domain knowledge isn’t covered here.) I continue to explore ideas across software, electronics, and product design.
+I’m a Display Optics Engineer involved in AI Transformation (AX) initiatives within the manufacturing industry. While my professional domain expertise is not documented here, I enjoy exploring ideas across software, electronics, and product design.
 
-I aim to explore practical applications of AI through a diverse range of projects, from educational resources to games.
+My projects focus on exploring practical applications of AI, ranging from educational tools and utilities to interactive games.
 
-All repositories are created with AI assistance, either fully or in part. For questions or inquiries, please use the contact information below. Thank you!
+All repositories are developed with AI assistance, either partially or extensively, as part of my exploration of AI-assisted development.
+
+For questions or inquiries, please feel free to reach out using the contact information below.
+
+Thank you for visiting!
 
 ## Featured Projects
 
