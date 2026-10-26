@@ -30,6 +30,10 @@ Thank you for visiting!
 - [GameHub](https://hyangdan2.github.io/GameHub/) — Game projects
 - [EduHub](https://hyangdan2.github.io/EduHub/) — Learning resources and courses
 
+## Services (under development)
+
+🌐 [hd2lab.duckdns.org](https://hd2lab.duckdns.org/)
+
 ## Tech Stack
 
 **Languages**  
